@@ -71,4 +71,4 @@ $ expo start
 
 ### *Download*
 
-```git clone git@github.com:vanthuynh/DesoMobileApp.git```
+```git clone git@github.com:Jammer1510/DesoMobileApp.git```
