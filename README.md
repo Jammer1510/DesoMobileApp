@@ -69,5 +69,6 @@ $ expo start
 
 - 1.1.1: Dry implementation of most UI components
 
+### *Download*
 
-
+```git clone git@github.com:vanthuynh/DesoMobileApp.git```

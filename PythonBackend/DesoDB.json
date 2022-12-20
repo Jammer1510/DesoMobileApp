@@ -1,0 +1,241 @@
+{
+  "Marketplace": {
+    "1": {
+      "marketplace": [
+        {
+          "id": "NFT-01",
+          "name": "Abstracto #312",
+          "creator": "Putri Intan",
+          "price": 4.25,
+          "description": "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
+          "image": "https://i.imgur.com/lg9blyx.jpg",
+          "bids": [
+            {
+              "id": "BID-11",
+              "name": "Jessica Tan",
+              "price": 4.25,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 12, 2019 at 12:10 PM"
+            },
+            {
+              "id": "BID-12",
+              "name": "Jennifer Sia",
+              "price": 4.5,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 27, 2019 at 1:50 PM"
+            },
+            {
+              "id": "BID-13",
+              "name": "Rosie Wong",
+              "price": 4.75,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 31, 2019 at 3:50 PM"
+            }
+          ]
+        },
+        {
+          "id": "NFT-02",
+          "name": "Green Coins",
+          "creator": "Siti Nurhaliza",
+          "price": 7.25,
+          "description": "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
+          "image": "https://i.imgur.com/LIEUAqv.jpg",
+          "bids": [
+            {
+              "id": "BID-21",
+              "name": "Jessica Tan",
+              "price": 7.05,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 12, 2019 at 12:10 PM"
+            }
+          ]
+        },
+        {
+          "id": "NFT-03",
+          "name": "NFT coins race",
+          "creator": "Elisabeth aho",
+          "price": 95.25,
+          "description": "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
+          "image": "https://i.imgur.com/ZS9Qpud.jpg",
+          "bids": [
+            {
+              "id": "BID-31",
+              "name": "Jessica Tan",
+              "price": 95.25,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 12, 2019 at 12:10 PM"
+            },
+            {
+              "id": "BID-32",
+              "name": "Jennifer Sia",
+              "price": 95.5,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 27, 2019 at 1:50 PM"
+            }
+          ]
+        },
+        {
+          "id": "NFT-04",
+          "name": "Nifty NFT",
+          "creator": "Putri Intan",
+          "price": 54.25,
+          "description": "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur.",
+          "image": "https://i.imgur.com/L2dT7NR.jpg",
+          "bids": [
+            {
+              "id": "BID-41",
+              "name": "Jessica Tan",
+              "price": 56.25,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 12, 2019 at 12:10 PM"
+            },
+            {
+              "id": "BID-42",
+              "name": "Jennifer Sia",
+              "price": 54.25,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 27, 2019 at 1:50 PM"
+            },
+            {
+              "id": "BID-43",
+              "name": "Rosie Wong",
+              "price": 55.15,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 31, 2019 at 3:50 PM"
+            },
+            {
+              "id": "BID-44",
+              "name": "Vincent Swift",
+              "price": 54.15,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 31, 2019 at 3:50 PM"
+            }
+          ]
+        },
+        {
+          "id": "NFT-05",
+          "name": "Colorful circles",
+          "creator": "David doe",
+          "price": 10.25,
+          "description": "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
+          "image": "https://i.imgur.com/USgolNI.jpg",
+          "bids": [
+            {
+              "id": "BID-51",
+              "name": "Jessica Tan",
+              "price": 10.25,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 12, 2019 at 12:10 PM"
+            }
+          ]
+        },
+        {
+          "id": "NFT-06",
+          "name": "Black box model",
+          "creator": "Leo Messi",
+          "price": 20.25,
+          "description": "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
+          "image": "https://i.imgur.com/95vw8WE.jpg",
+          "bids": [
+            {
+              "id": "BID-61",
+              "name": "Jessica Tan",
+              "price": 20.25,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 12, 2019 at 12:10 PM"
+            },
+            {
+              "id": "BID-62",
+              "name": "Jennifer Sia",
+              "price": 20.5,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 27, 2019 at 1:50 PM"
+            },
+            {
+              "id": "BID-63",
+              "name": "Rosie Wong",
+              "price": 20.75,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 31, 2019 at 3:50 PM"
+            },
+            {
+              "id": "BID-64",
+              "name": "Siti Nurhaliza",
+              "price": 21.25,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 31, 2019 at 3:50 PM"
+            },
+            {
+              "id": "BID-65",
+              "name": "Kaitlyn Lee",
+              "price": 7.25,
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "date": "December 31, 2019 at 3:50 PM"
+            }
+          ]
+        },
+        {
+          "id": "NFT-07",
+          "name": "Abstracto soulful art",
+          "creator": "Victor de la Cruz",
+          "price": 18.25,
+          "description": "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Ullamcorper platea penatibus ornare egestas nulla ligula hendrerit nisl suscipit sociosqu maximus, tincidunt aptent habitant purus pharetra ultrices dapibus laoreet nisi lacinia. Porta malesuada netus vel sapien conubia porttitor aliquam ut pretium ante litora molestie senectus magna egestas sociosqu, eget aliquet fames pharetra felis posuere varius fringilla quisque in arcu montes eu ullamcorper.",
+          "image": "https://i.imgur.com/yUtg4r6.jpg",
+          "bids": []
+        },
+        {
+          "bids": [
+            {
+              "date": "February 30, 2019 at 12:10 PM",
+              "id": "BID-21",
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "name": "Nam Nguyen",
+              "price": 7.05
+            }
+          ],
+          "creator": "Van The Great",
+          "description": "This project makes me so tired",
+          "id": "NFT-15",
+          "image": "https://i.imgur.com/XC47Daz.jpg",
+          "name": "Van's favorite item",
+          "price": 7.25
+        },
+        {
+          "bids": [
+            {
+              "date": "July 4, 2019 at 12:10 PM",
+              "id": "BID-21",
+              "image": "https://i.imgur.com/lg9blyx.jpg",
+              "name": "Nam Nguyen",
+              "price": 7.05
+            }
+          ],
+          "creator": "Tran The IV",
+          "description": "This project makes me so tired",
+          "id": "NFT-16",
+          "image": "https://i.imgur.com/lg9blyx.jpg",
+          "name": "Tran's favorite item",
+          "price": 7.25
+        }
+      ]
+    }
+  },
+  "Users": {
+    "1": {
+      "accessSignature": "304402207abff83c624bd3ea382f4266511a0fa64e8e919f679b0a3288c00d04937c150302201b465de8fb2f126481124e6dcea128f841fdc9548aa5db6f3e6b45fafcb03388",
+      "btcDepositAddress": "Hello",
+      "derivedJwt": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NTIzMjk3NjQsImV4cCI6MTY1NDkyMTc2NH0.FX5XWdkPL957cub6-emYH6wuT3kTqo-vlfFdrknKWQU8XX4lrxIIbOWQpnkxbJUVul1JEiDEpywWUgRCBZNu4Q",
+      "derivedPublicKeyBase58Check": "BC1YLgvWoZDXukczCLNeahkzRSqXz2jnCU42v97u4GPLAupTeGjSNsE",
+      "derivedSeedHex": "3792c462b1c528cc7a3f186a8a84d52d54ea759a16eb18582fb0e52b102b5d2e",
+      "ethDepositAddress": "Not implemented yet",
+      "expirationBlock": "137539",
+      "jwt": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NTIzMjk3NjQsImV4cCI6MTY1NDkyMTc2NH0.mKUpZiDxZ8eTfTwSmBq_B1EAzvru5VenCkrduIsOvKl-NFCGQTyK4vZ9FMV0te9wD0pSyVPYmTl0XFWwaHUEEQ",
+      "messagingKeyName": "default-key",
+      "messagingKeySignature": "304502205546555a04d9b90e2fc49d49c39c1b7b5b51217ebea74a4640bd0b92843fc415022100b082721a7afd1585d35d686d621a0ae51d137a21e9ff551efecf13309182a309",
+      "messagingPrivateKey": "5aa9c09ce6b770ce345b8c7723ce4b466d8addd33cea7e9c199ab34432c8e232",
+      "messagingPublicKeyBase58Check": "BC1YLhQebo4azzbGGAhQYtNba8go9DJSCioJbKoRqWCXgxT8RARaUyZ",
+      "network": "mainnet",
+      "publicKeyBase58Check": "BC1YLiYiVPqLNv4mM6wTe2NyfkdRZNoS7yzJxH4wYFV5uQfj8tysz9k"
+    }
+  }
+}
